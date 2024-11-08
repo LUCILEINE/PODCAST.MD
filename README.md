@@ -6,15 +6,11 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
+<a href="https://canva.com>https://www.canva.com/design/DAGVuRkYhik/2scDVgzfX1mX7coemII0Mw/edit/"/>       
+    
+<a 
+    href="https://canva.com/"/>
+
 </a>
 </p>
 
@@ -29,26 +25,29 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula on-line do projeto [Caixa](https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/10-OUTUBRO/CAIXA-oferece-bolsas-de-estudo-para-aprendizado-acelerado-em-tecnologia.aspx) em parceria com a plataforma [DIO](https://dio.me).
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Copilot](https://copilot.microsoft.com/onboarding)
+- [Text To Speech](https://www.text-to-speech.online/)
+- [Canva](https://www.canva.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Audio gerado Text To Speech
+- Copit Microsoft para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Canva para fazer a junção da capa com áudio
 
+  
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
