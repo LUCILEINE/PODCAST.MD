@@ -88,3 +88,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </p>
 <br/><br/>
 <p>
+---
+
+⌨️ com 💜 por [Lucileine Carvalho](https://github.com/lucileine)
+
