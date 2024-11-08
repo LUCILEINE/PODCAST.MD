@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/LUCILEINE/imag/blob/main/Capa_Podcast.jpg?raw=true"
     width="300"
 />
 </p>
