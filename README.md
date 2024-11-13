@@ -25,7 +25,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula on-line do projeto [Caixa](https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/10-OUTUBRO/CAIXA-oferece-bolsas-de-estudo-para-aprendizado-acelerado-em-tecnologia.aspx) em parceria com a plataforma [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula on-line do projeto [BootCamp](https://web.dio.me/play?section_type=bootcamp) da plataforma [DIO](https://dio.me) em parceria com a [Caixa](https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/10-OUTUBRO/CAIXA-oferece-bolsas-de-estudo-para-aprendizado-acelerado-em-tecnologia.aspx) e a [Microsoft](https://www.microsoft.com/pt-br/).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
