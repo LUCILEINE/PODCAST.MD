@@ -33,7 +33,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.com/) 
+- [ChatGPT](https://chatgpt.com/) 
 - [Copilot](https://copilot.microsoft.com/onboarding)
 - [Text To Speech](https://www.text-to-speech.online/)
 - [Canva](https://www.canva.com/)
