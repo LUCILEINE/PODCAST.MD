@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://github.com/LUCILEINE/imag/blob/main/Capa_Podcast.jpg"
+    src="Capa_Podcast.jpg"
     width="300"
 />
 </p>
@@ -71,6 +71,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
+      style=20px
       src="https://avatars.githubusercontent.com/u/137401475?v=4"
     />
     <p>&nbsp&nbsp&nbspLucileine Carvalho<br>
@@ -89,6 +90,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 ---
-
 ⌨️ com 💜 por [Lucileine Carvalho](https://github.com/lucileine)
 
