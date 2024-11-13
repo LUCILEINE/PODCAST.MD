@@ -59,7 +59,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Use os prompts de roteiro no `ChatGPT`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `Text To Speech`
 - 🤖 3. Use os prompts de artes no `Copilot Microsoft`
 
@@ -71,7 +71,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      style=20px
       src="https://avatars.githubusercontent.com/u/137401475?v=4"
     />
     <p>&nbsp&nbsp&nbspLucileine Carvalho<br>
@@ -90,5 +89,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 ---
-⌨️ com 💜 por [Lucileine Carvalho](https://github.com/lucileine)
+    
+⌨️ Feito com 💜 por [Lucileine Carvalho](https://github.com/LUCILEINE)
 
